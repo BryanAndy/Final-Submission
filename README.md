@@ -1,5 +1,5 @@
 # Group-Project-2
-
+To run this project, first save the pubspec.yaml. It should generate the necessary remaining files, then run the project from the main.dart file.
 
 This project is an implementation of a Design I found on [Dibble.com](https://dribbble.com/shots/6631565-Flashmall-Vendor)
 
